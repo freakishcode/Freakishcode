@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ahmed Olayemi Bakare</h1>
-<h3 align="center">A passionate frontend and Backend developer from Nigeria</h3>
+<h3 align="center">A passionate Web developer from Nigeria mostly specializes on Front-end web Design</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freakishcode&label=Profile%20views&color=0e75b6&style=flat" alt="freakishcode" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio website**
+- 🔭 I’m have a working **Portfolio website** using typescript
 
-- 🌱 I’m currently learning **React and Node JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [github/freakishcode](github/freakishcode)
 
-- 💬 Ask me about **Still in the beginning stage**
+- 💬 Ask me about: **Still in the intermediate stage**
 
-- ⚡ Fun fact **Easy Going**
+- ⚡ Fun fact **Love try new methods of writing readable & scalable codes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
