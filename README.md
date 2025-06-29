@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freakishcode&label=Profile%20views&color=0e75b6&style=flat" alt="freakishcode" /> </p>
 
-- 🔭 I’m have a working **Portfolio website** using typescript
+- 🔭 I have a working **Portfolio website** using typescript
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently good, working with React JS(Intermediate level)
 
 - 👨‍💻 All of my projects are available at [github/freakishcode](github/freakishcode)
 
